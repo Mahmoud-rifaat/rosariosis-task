@@ -1,0 +1,26 @@
+{
+  "name": "SimpleReport",
+  "description": "This RosarioSIS plugin will create a simple report.",
+  "keywords": [
+    "simple",
+    "student",
+    "report"
+  ],
+  "license": "GPL-2.0-or-later",
+  "authors": [
+    {
+      "name": "Mahmoud Refaat"
+    }
+  ],
+  "type": "rosariosis-plugin",
+  "version": "11.3",
+  "time": "2025-04-13",
+  "require": {
+    "php": ">=5.5.9"
+  },
+  "extra": {
+    "require": {
+      "francoisjacquet/rosariosis": ">=6.8"
+    }
+  }
+}
