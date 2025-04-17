@@ -1,20 +1,21 @@
 {
-  "name": "SimpleReport",
-  "description": "This RosarioSIS plugin will create a simple report.",
+  "name": "Simple_Report",
+  "description": "A simple report plugin for RosarioSIS that displays student enrollment information",
   "keywords": [
-    "simple",
     "student",
-    "report"
+    "report",
+    "enrollment"
   ],
   "license": "GPL-2.0-or-later",
   "authors": [
     {
-      "name": "Mahmoud Refaat"
+      "name": "Your Name",
+      "email": "your.email@example.com"
     }
   ],
   "type": "rosariosis-plugin",
-  "version": "11.3",
-  "time": "2025-04-13",
+  "version": "1.0.0",
+  "time": "2024-03-20",
   "require": {
     "php": ">=5.5.9"
   },
